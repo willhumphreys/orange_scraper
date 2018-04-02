@@ -14,6 +14,8 @@ The lambda needs the following information
 
 ## Dependencies that need to be installed
 
+```
 python3.6 -m pip install BeautifulSoup4 -t .
 python3.6 -m pip install requests -t .
 python3.6 -m pip install boto3 -t .
+```
