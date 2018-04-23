@@ -19,3 +19,18 @@ python3.6 -m pip install BeautifulSoup4 -t .
 python3.6 -m pip install requests -t .
 python3.6 -m pip install boto3 -t .
 ```
+
+## Alias for pipenv
+```
+alias prp="pipenv run python"
+```
+
+## How to install a dependency
+```
+pipenv install BeautifulSoup4
+```
+
+## Run the tests
+```
+py.test
+```
