@@ -1,3 +1,5 @@
 keys.md
 .idea
 .pytest_cache
+test-data.json
+run-tests.sh
