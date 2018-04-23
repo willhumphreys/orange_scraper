@@ -7,9 +7,10 @@ name = "pypi"
 "beautifulsoup4" = "*"
 requests = "*"
 "boto3" = "*"
-pytest = "*"
+
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.6"
